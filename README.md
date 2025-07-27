@@ -11,15 +11,15 @@ A Python-based Student Management System with three different storage implementa
 
 ## Files
 
-- StudentManagement.py - In-memory storage version
-- StudentManagementJSON.py - JSON file storage version  
-- StudentManagementMYSQL.py - MySQL database version with score tracking
-- StudentData.json - Sample student data
+- `StudentManagement.py` - In-memory storage version
+- `StudentManagementJSON.py` - JSON file storage version  
+- `StudentManagementMYSQL.py` - MySQL database version with score tracking
+- `StudentData.json` - Sample student data
 
 ## Student Data Structure
 
-- ID, First Name, Last Name, Age
-- Place of Birth, Birth Date, Phone Number
+- ID, First Name, Last Name, Age, Place of Birth, Birth Date, Phone Number
+- StudentID, SubjectName, Score
 
 ## Requirements
 
