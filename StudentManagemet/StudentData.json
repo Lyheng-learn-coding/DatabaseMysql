@@ -1,0 +1,47 @@
+[
+    {
+        "Id": 1,
+        "FirstName": "Oun",
+        "LastName": "Lyheng",
+        "Age": 20,
+        "PlaceBirth": "PP",
+        "BirthDate": "30-03-2005",
+        "PhoneNumber": "078 668 078"
+    },
+    {
+        "Id": 2,
+        "FirstName": "Oun",
+        "LastName": "Hongseng",
+        "Age": 10,
+        "PlaceBirth": "PP",
+        "BirthDate": "22-03-2015",
+        "PhoneNumber": "012345678"
+    },
+    {
+        "Id": 3,
+        "FirstName": "Ly",
+        "LastName": "Panha",
+        "Age": 20,
+        "PlaceBirth": "PP",
+        "BirthDate": "01-01-2005",
+        "PhoneNumber": "02345678"
+    },
+    {
+        "Id": 4,
+        "FirstName": "Kim",
+        "LastName": "Ly",
+        "Age": 20,
+        "PlaceBirth": "pp",
+        "BirthDate": "01-01-2005",
+        "PhoneNumber": "012345678"
+    },
+    {
+        "Id": 5,
+        "FirstName": "Soma",
+        "LastName": "LyLy",
+        "Age": 20,
+        "PlaceBirth": "PP",
+        "BirthDate": "01-01-2005",
+        "PhoneNumber": "0123456789"
+    }
+]
